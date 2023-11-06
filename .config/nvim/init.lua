@@ -1,0 +1,10 @@
+require('klara.plugins-setup')
+require('klara.core.options')
+require('klara.core.keymaps')
+require('klara.core.colorscheme')
+require('klara.plugins.nvim-tree')
+require('klara.plugins.nvim-cmp')
+require('klara.plugins.lualine')
+require('klara.plugins.treesitter')
+require('klara.plugins.toggleterm')
+
